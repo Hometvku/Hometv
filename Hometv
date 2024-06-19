@@ -730,7 +730,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/203.m3u8
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/209.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="" group-title="HMTV (not ott)",SONY TEN 2
-#EXTVLCOPT:http-referrer=http://103.127.137.190:443/
+#EXTVLCOPT:http-referrer=http://103.127.137.190/
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/210.m3u8
 
