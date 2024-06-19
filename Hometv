@@ -2,6 +2,12 @@
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 1" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
+https://sgn.play-hometv.my.id/auth/tLgBtyNBE2oJhzI0inehVQS2xShlfJ6kUWegRE48jYMcCfTcFYrFxZb61fwn8B_SOH8mbWO-A_6yT5AP8auw3miV9Ws1DuO-JM91E9F7zW2YqBP2SMrrgzlPhWyLcTdFpD5qxnizoHf6g8CwBPUzY4Foy23vWjdGUHduxU7BTHWtEyxNQVXSKQ136_IRj6HEy1VYk3ndLdu-RaZKHaU9rpEjVdeqHPUvY1VDs1aMEHmIC-8KXqqc7XGWvjuhDo1Hm2sabO0qZwmQCJnOsKsBx1dQ0QQ95eCsTaKkA9ZBfg79eMqEVwSuKsZS5UOBRI8SG5c2mkblf7Dccm6bqWJD7B7HuoFpAPfoL4YyDKtnUOozjIg11FA0mffh6KvuLGU4q8i6ElF3Qza4Xz8OkFNzQUncd0w0gGg0MC5FuNf3zzczj1uB9Sxw9Lo8eCy3nuFwweExiZgjllYVZ3FCuP0uWx9jy9iEJ2QzcpZ8YqHOacGsVA2yCwqdPesDUxbojjAlcYVH7bjyVtL3fQQzxNl4JR3dD0dHjff6_NsnP34YiTNJhc6aBkSv4Hcy62EormcrZT5qCsNqsVlp3rQohG3kRgXjWqXq90UA_cYwE4I0FTlSBLIlZFl41C2N2-vgVjLg
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 1" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 1
