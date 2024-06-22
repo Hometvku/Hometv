@@ -11,7 +11,11 @@ https://sgn.play-hometv.my.id/auth/tLgBtyNBE2oJhzI0inehVQS2xShlfJ6kUWegRE48jYMcC
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 1" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 1
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XSm1NbU0wTjJFdFpXSTNaQzAwTWpnNExXRmxPRE10WkRCaVlXRTNNalkxTXpkaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTM2NTk5NSwiaWF0IjoxNzE4NzYxOTk1fQ.C4o4scs7CVvLO_8l4Ks8y1NIfHJ4UmsrVL_uixbh_Q4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VYm6JmXI2v2p+5fz1+9Sbg","kid":"bxWpsvJ7StqpWQUNtgPAjw"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/233.m3u8
 
