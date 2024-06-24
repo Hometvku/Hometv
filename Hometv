@@ -10,7 +10,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/233.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=3,BANDWIDTH=7373146
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/234.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 3" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 3
-https://raw.githubusercontent.com/Jelek318/Ch/main/Ch
+https://raw.githubusercontent.com/Jelek318/Ch/main/SpotvStadia
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 4" tvg-logo="https://sgn.play-hometv.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIlRs1N9IxvCic4hzBiGaZJw.png" group-title="HMTV (not ott)",EURO 2024 - 4
 #EXT-X-VERSION:3
@@ -29,7 +29,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/238.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=7,BANDWIDTH=7373146
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LOKAL 1" tvg-logo="" group-title="HMTV (not ott)",INDOSIAR LOKAL 1
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
+https://raw.githubusercontent.com/Jelek318/Ch/main/Indosiar
 #EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="" group-title="HMTV (not ott)",SCTV LOKAL 1
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="" group-title="HMTV (not ott)",TRANS 7
